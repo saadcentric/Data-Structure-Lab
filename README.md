@@ -12,16 +12,14 @@ The Hotel Room Management System is a project developed to manage hotel room inf
 - 👤 Guest information management
 - 📅 Room booking and reservation management
 - 🔍 Room availability checking
-- 💰 Billing and payment records
+- 💰 Billing records
 - 📋 Reservation and room information tracking
 
 *Note: Update this list to include only the features implemented in your project.*
 
 ## 🛠️ Technologies Used
 
-- Programming Language: [Your Language]
-- Database: [Your Database, if applicable]
-- Framework: [Your Framework, if applicable]
+- Programming Language: [C]
 
 ## ⚙️ Installation and Setup
 
@@ -37,28 +35,17 @@ The Hotel Room Management System is a project developed to manage hotel room inf
    cd hotel-room-management-system
    ```
 
-3. Follow the setup instructions for the technologies used in this project.
-
-## ▶️ How to Run
-
-Add the commands or instructions required to compile and run the application.
-
-## 📸 Screenshots
-
-Add screenshots of your application here to demonstrate its interface and functionality.
-
 ## 🎯 Project Objectives
 
-- Practice software development concepts.
 - Organize hotel room and reservation information.
 - Apply programming and database management skills.
 - Build a practical hotel management application.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**SAAD AHMED**
 
-GitHub: [YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+GitHub: [YOUR-USERNAME](https://github.com/saadcentric)
 
 ## 📄 License
 
