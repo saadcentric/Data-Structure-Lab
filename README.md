@@ -4,7 +4,7 @@ A software application designed to simplify hotel room management, guest records
 
 ## 📌 About the Project
 
-The Hotel Room Management System is a project developed to manage hotel room information and reservations efficiently. It aims to make common hotel management tasks easier through a structured and user-friendly system.
+The Hotel Room Management System is a project developed to manage hotel room information and reservations efficiently. It aims to make common hotel management tasks easier through a structured and user-friendly system
 
 ## ✨ Features
 
