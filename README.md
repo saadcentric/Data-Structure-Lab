@@ -45,7 +45,7 @@ The Hotel Room Management System is a project developed to manage hotel room inf
 
 **SAAD AHMED**
 
-GitHub: [YOUR-USERNAME](https://github.com/saadcentric)
+GitHub: [saadcentric](https://github.com/saadcentric)
 
 ## 📄 License
 
