@@ -19,14 +19,14 @@ The Hotel Room Management System is a project developed to manage hotel room inf
 
 ## 🛠️ Technologies Used
 
-- Programming Language: [C]
+- Programming Language: C
 
 ## ⚙️ Installation and Setup
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/hotel-room-management-system.git
+   git clone https://github.com/saadcentric/hotel-room-management-system.git
    ```
 
 2. Navigate to the project directory:
